@@ -1,3 +1,4 @@
+![](smartpaiol-branding.jpeg)
 # Smart Paiol
 
 A Revolução Inteligente para Gestão de Paiol com Segurança e Conformidade na Nuvem!
